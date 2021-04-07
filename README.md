@@ -19,3 +19,8 @@ Technical assignment for P.I. Works
    
 3. Save User Button:
    >It is the button used to complete the registration of the user whose information is entered into the system.
+4. User Table:
+   | Syntax      | Description |
+   | ----------- | ----------- |
+   | Header      | Title       |
+   | Paragraph   | Text        |

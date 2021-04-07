@@ -15,5 +15,5 @@ Technical assignment for P.I. Works
    5. User Roles:
       >Dropdown menu where users choose one of the 3 roles available in the system.
    6. Enabled:
-       #Box showing the user's activity status.
+       >Box showing the user's activity status.
    

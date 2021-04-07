@@ -24,3 +24,5 @@ Technical assignment for P.I. Works
    | ----------- | ----------- | ----------- | ----------- |
    | 1 | ExampleUser | Example@mail.com | true |
    
+   >In this table, the unique ids, usernames, emails and activity statuses of the registered users are kept.
+   

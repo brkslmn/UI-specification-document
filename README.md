@@ -1,7 +1,7 @@
 # UI-specification-document
 Technical assignment for P.I. Works
 
-1. New User Button:
+1. New User Button:[^1]
    >This button opens the ***form*** for creating a new user.
 2. New User Form:
    1. Username:
@@ -18,4 +18,4 @@ Technical assignment for P.I. Works
        >Box showing the user's activity status.
    
 3. Save User Button:
-   > It is the button used to complete the registration of the user whose information is entered into the system.
+   > It is the button used to complete the registration of the user whose information is entered into the system.[^1]

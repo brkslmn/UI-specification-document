@@ -21,5 +21,6 @@ Technical assignment for P.I. Works
    >It is the button used to complete the registration of the user whose information is entered into the system.
 4. User Table:
    | ID      | User Name | Email      | Enabled |
+   | ----------- | ----------- | ----------- | ----------- |
    | 1 | ExampleUser | Example@mail.com | true |
    

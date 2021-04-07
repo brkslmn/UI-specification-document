@@ -3,6 +3,7 @@ Technical assignment for P.I. Works
 
 1. New User Button:
    >This button opens the ***form*** for creating a new user.
+---
 2. New User Form:
    1. Username:
       >Text box used to set a ***username***.
@@ -16,13 +17,16 @@ Technical assignment for P.I. Works
       >Dropdown menu where users choose one of the 3 roles available in the system.
    6. Enabled:
        >Box showing the user's activity status.
-   
+--- 
 3. Save User Button:
    >It is the button used to complete the registration of the user whose information is entered into the system.
+---
 4. User Table:
    | ID      | User Name | Email      | Enabled |
    | ----------- | ----------- | ----------- | ----------- |
    | 1 | ExampleUser | Example@mail.com | true |
    
    >In this table, the unique ids, usernames, emails and activity statuses of the registered users are kept.
-   
+---
+5. Hide Disabled User Checkbox:
+   >If this checkbox is selected, only enable users will appear in the user table. If not selected, it will appear in the table for disabled users.

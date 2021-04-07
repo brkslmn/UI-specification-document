@@ -17,3 +17,5 @@ Technical assignment for P.I. Works
    6. Enabled:
        >Box showing the user's activity status.
    
+3. Save User Button:
+   > It is the button used to complete the registration of the user whose information is entered into the system.

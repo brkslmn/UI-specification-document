@@ -3,7 +3,7 @@ Technical assignment for P.I. Works
 
 - New User Button:
    >This button opens the ***form*** for creating a new user.
-1. New User Form:
+1. New User Form[1]:
    - Username:
       >Text box used to set a ***username***.
    - Display Name:

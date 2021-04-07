@@ -1,5 +1,5 @@
 # UI-specification-document
-technical assignment for P.I. Works
+Technical assignment for P.I. Works
 
 - New User Button:
    >This button opens the ***form*** for creating a new user.
